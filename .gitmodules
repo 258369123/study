@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/258369123/rustlings.git
-=======
-[submodule "rustlings"]
-	path = rustlings
-	url = git@github.com:258369123/rustlings.git
->>>>>>> ad0e4a842dfd743c075d1716cd6f35627e80df5b
